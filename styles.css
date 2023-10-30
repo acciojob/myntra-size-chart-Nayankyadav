@@ -9,7 +9,7 @@ table {
 
 th,td {
   border: 1px solid black;
-	
+	text-algin:left;
 }
 #s {
 	background-color:rgb(192,80,77);
